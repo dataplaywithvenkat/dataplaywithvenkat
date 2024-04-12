@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @dataplaywithvenkat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @dataplaywithvenkat 
+
+- 👀 I’m interested in data science, machine learning, and analytics.
+
+- 🌱 I’m currently learning advanced statistical modeling techniques and cloud computing.
+
+- 💞️ I’m looking to collaborate on projects related to predictive analytics and data-driven decision-making.
+
+- 📫 How to reach me: You can reach out to me via email at venkat26999@gmail.com or connect with me on LinkedIn: [linkedin.com/in/venkatpolamuri/](https://www.linkedin.com/in/venkatpolamuri/)
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I love experimenting with new datasets and finding hidden patterns in data.
+
 
 <!---
 dataplaywithvenkat/dataplaywithvenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
