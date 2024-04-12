@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dataplaywithvenkat 
+- 👋 Hi, I’m Venkat Polamuri @dataplaywithvenkat 
 
 - 👀 I’m interested in data science, machine learning, and analytics.
 
