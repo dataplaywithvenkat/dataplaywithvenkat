@@ -7,9 +7,9 @@
 	<br>
 	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/overview-dark.svg"/>
 	<br>
-	<img src="https://github.com/benthecoder/stats/blob/generated/overview-dark.svg"/>
+	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/overview-dark.svg"/>
 <!-- 	<br>
-	<img src="https://github.com/benthecoder/stats/blob/generated/languages-dark.svg"/> -->
+	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/languages-dark.svg"/> -->
 </p>
 
 
