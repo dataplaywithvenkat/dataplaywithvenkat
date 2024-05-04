@@ -1,11 +1,15 @@
 <p align="center">
 	<a href=https://www.linkedin.com/in/venkatpolamuri />LinkedIn</a> • 
-	<a href=https://medium.com/@venkat26999 />Blog</a> • 
+	<a href=https://medium.com/@venkat26999 />Blog</a> 
 	<br>
 	<br>
 	<img src="https://profile-counter.glitch.me/{dataplaywithvenkat}/count.svg" alt="Visitor Count" />
 	<br>
 	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/overview-dark.svg"/>
+	<br>
+	<img src="https://github.com/benthecoder/stats/blob/generated/overview-dark.svg"/>
+<!-- 	<br>
+	<img src="https://github.com/benthecoder/stats/blob/generated/languages-dark.svg"/> -->
 </p>
 
 
