@@ -5,9 +5,9 @@
 	<br>
 	<img src="https://profile-counter.glitch.me/{dataplaywithvenkat}/count.svg" alt="Visitor Count" />
 	<br>
-	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/overview-dark.svg"/>
+	<img src="https://github.com/dataplaywithvenkat/Dataplaywithvenkat_Github_Statistics/blob/master/generated/overview.svg"/>
 	<br>
-	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/overview-dark.svg"/>
+	<img src="https://github.com/dataplaywithvenkat/Dataplaywithvenkat_Github_Statistics/blob/master/generated/languages.svg"/>
 <!-- 	<br>
 	<img src="https://github.com/dataplaywithvenkat/stats/blob/generated/languages-dark.svg"/> -->
 </p>
