@@ -1,7 +1,7 @@
 <p align="center">
 	<a href=https://www.linkedin.com/in/venkatpolamuri />LinkedIn</a> • 
 	<a href=https://medium.com/@venkat26999 />Blog</a> • 
-	<a href=https://dataplaywithvenkat.github.io/Resume/venkat_gopinath_cv.pdf/>Resume</a>
+	<a href=https://dataplaywithvenkat.github.io/Resume/venkat_gopinath_cv.pdf />Resume</a>
 	<br>
 	<br>
 	<img src="https://profile-counter.glitch.me/{dataplaywithvenkat}/count.svg" alt="Visitor Count" />
